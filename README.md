@@ -14,6 +14,7 @@
 - ❌[light-saber-11f](https://github.com/Thanas-Fuqi/light-saber-11f) – Albanian(Grammar) project, class 11 (2023-2024).
 - ✔️[mitosis-sim-11f](https://github.com/Thanas-Fuqi/mitosis-sim-11f) – English project, class 11 (2023-2024).
 - ❌[Native-busters-uwu-](https://github.com/Thanas-Fuqi/Native-busters-uwu-) – AI hackathon project submission 2023.
+- ❌[My_bio_website](https://github.com/Thanas-Fuqi/My_bio_website) – (**Unfinished**) My bio as a website project.
 
 </details>
 
