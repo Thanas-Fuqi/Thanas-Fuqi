@@ -41,5 +41,6 @@
 - ✔️[Games_py](https://github.com/Thanas-Fuqi/Games_py) – Various games made with python.
 - ✔️[MSWLogo_Practice](https://github.com/Thanas-Fuqi/MSWLogo_Practice) – Various MSWLogo builds made for practice.
 - ❌[School_Data](https://github.com/Thanas-Fuqi/School_Data) – All data from middle school (lower + upper) 2022-2025.
+- ❌[Uni_Data](https://github.com/Thanas-Fuqi/Uni_Data) – All data from University.
 
 </details>
