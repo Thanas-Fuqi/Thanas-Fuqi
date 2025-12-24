@@ -32,7 +32,6 @@
 <details>
   <summary>🗄 Other Data</summary>
 
-- ❌[100_days_python](https://github.com/Thanas-Fuqi/100_days_python) – Online python course.
 - ✔️[Cave_Myth](https://github.com/Thanas-Fuqi/Cave_Myth) – Philosophy project (windows game), class 11 (2023-2024).
 - ❌[CFA-2022-2024](https://github.com/Thanas-Fuqi/CFA-2022-2024) – IRL and Online coding course (july 2022 - july 2024).
 - ❌[CODE](https://github.com/Thanas-Fuqi/CODE) – Various snippets of code in different languages.
